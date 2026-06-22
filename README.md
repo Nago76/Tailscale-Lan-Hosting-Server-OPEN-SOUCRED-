@@ -2,6 +2,7 @@
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg)](https://minecraft.net)
 [![Forge Version](https://img.shields.io/badge/Forge-47.4.10-orange.svg)](https://files.minecraftforge.net/)
 [![Platform](https://img.shields.io/badge/Network-Tailscale%20%7C%20WireGuard-blue.svg)](https://tailscale.com)
+[![Djscord](https://img.shields.io/badge/Discord_Server-purple.svg)](https://discord.gg/xBcyYfbXdz)
 
 ## Requirement 
 - You need Minecraft 1.20.1 installed
